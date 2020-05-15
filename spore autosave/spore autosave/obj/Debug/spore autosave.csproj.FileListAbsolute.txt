@@ -1,0 +1,10 @@
+D:\programovani\spore autosave\spore autosave\bin\Debug\spore autosave.exe.config
+D:\programovani\spore autosave\spore autosave\bin\Debug\spore autosave.exe
+D:\programovani\spore autosave\spore autosave\bin\Debug\spore autosave.pdb
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore autosave.csprojAssemblyReference.cache
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore_autosave.Form1.resources
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore_autosave.Properties.Resources.resources
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore autosave.csproj.GenerateResource.cache
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore autosave.csproj.CoreCompileInputs.cache
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore autosave.exe
+D:\programovani\spore autosave\spore autosave\obj\Debug\spore autosave.pdb
